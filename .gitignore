@@ -1,0 +1,10 @@
+pgdata/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+scripts/data/embeddings.npy
+scripts/data/queries.npy
+scripts/data/documentos.csv
+scripts/data/queries_texto.csv

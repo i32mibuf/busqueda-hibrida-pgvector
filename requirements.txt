@@ -1,0 +1,8 @@
+psycopg[binary]>=3.1
+pgvector>=0.3
+numpy
+pandas
+sentence-transformers
+datasets
+matplotlib
+tqdm
